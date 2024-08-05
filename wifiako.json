@@ -1,0 +1,16 @@
+{
+    "aironet": [
+        {
+            "host_ip": "10.12.10.3",
+            "hostname": "12-WifiAj",
+            "username": "admin",
+            "password": "pass",
+            "ssid": "12-SolaireAjWifi",
+            "authentication": "open",
+            "key-man": "wpa",
+            "wifi-pass": "C1sc0123",
+            "channel": "4",
+            "enc-mod": "tkip"
+        }
+    ]
+}
